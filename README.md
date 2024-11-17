@@ -8,4 +8,5 @@ Retrieved and processed large-scale vehicle activity data from APIs to calibrate
 Implemented a dynamic programming-based approach to optimize parking activities, improving efficiency and utilization.
 ### Interactive Visualization: 
 Developed interactive visualizations of the results using Python libraries such as Bokeh and Plotly, enabling intuitive data exploration and analysis.
+Please find the interactive maps here (https://yanchaomcp.github.io/parking_simulation_2024/index.html)
 
